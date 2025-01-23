@@ -1,4 +1,4 @@
-### 🚘 [현대오토에버 모빌리티 SW스쿨] 중고차 거래 모바일 어플리케이션 <왓차>
+### 🚘 [현대오토에버 모빌리티 SW스쿨] 1조 중고차 거래 모바일 어플리케이션 <왓차>
 
 ---
 
@@ -53,7 +53,11 @@
 ---
 
 ## 🎞️ 시연 영상 
-https://youtu.be/Sw2z7BGkkhQ?si=6fG3oPbrrgTJuzX8
+<div align="center">
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/Sw2z7BGkkhQ/0.jpg)](https://youtu.be/Sw2z7BGkkhQ)
+
+</div>
 
 ---
 
@@ -85,8 +89,9 @@ https://youtu.be/Sw2z7BGkkhQ?si=6fG3oPbrrgTJuzX8
 ## 📺 화면 구성 
 
 ### App - Login
-
+<div align="center">
 <img width="802" alt="스크린샷 2025-01-22 10 55 30" src="https://github.com/user-attachments/assets/170418f2-5f93-4162-8c47-22f936200498" />
+</div>
 
 ---
 
